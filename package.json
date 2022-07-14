@@ -1,0 +1,16 @@
+{
+  "name": "sportsoldrule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SeanLI12/wlbOldRules.git",
+  "author": "Sean <larcenciel12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "simple-git": "^3.10.0"
+  }
+}
