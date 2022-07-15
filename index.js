@@ -3,10 +3,10 @@
 import { simpleGit } from 'simple-git';
 
 const USER = 'SeanLI12';
-const PASS = 'hyde12345@PH';
-const REPO = 'git@github.com:SeanLI12/gitjson.git';
+const PASS = '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';
+const REPO = 'github.com/SeanLI12/gitjson.git';
 
-github.com/username/private-repo
+
 
 const remote = `https://${ USER }:${ PASS }@${ REPO }`;
 
